@@ -29,6 +29,6 @@ You may encounter some errors ⛔
 
 Do you still have a problem?
 Send me a message in Discord to this ID:
-Reaxo#2222
+Reaxo#0099
 
 Thanks for using my bot ❤
