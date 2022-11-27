@@ -8,13 +8,13 @@ To use this bot, fill in the 🔑
 TOKEN, PREFIX, CATEGORY ID, and LOG CHANNEL ID 🤖
 sections of the config and ticket sections.📚
 
-Features :
+# Features :
 
 * Best Speed
 * Has several types of tickets
 * Has a log
 
-images of bot 🎥
+# images of bot 🎥
 
 ![unknown_2](https://user-images.githubusercontent.com/110986239/183917469-61b7dde8-81f8-414c-a2cd-e5b8cdc7bf71.png)
 
@@ -26,19 +26,19 @@ images of bot 🎥
 
 ![unknown_6](https://user-images.githubusercontent.com/110986239/183918374-e38b3bb6-1640-4afa-a4e3-fba7c6fd6594.png)
 
-How to Install :
+# How to Install :
 `git clone https://github.com/imReaxo/Discord.py-Ticket-System`
 `cd Discord.py-Ticket-System`
 `pip install -r requirements.txt`
 `python main.py`
 
-You may encounter some errors ⛔
+# You may encounter some errors ⛔
 
 1-You may not have installed one of the important books, so be sure to run the req.bat file once!
 2-You may run the code but the buttons don't work, you must include the core section in your code!
 3-The next error you may encounter is that you did not complete one of the sections I mentioned above (line 8) or they are incorrect!
 
-Do you still have a problem?
+# Do you still have a problem?
 Send me a message in Discord to this ID:
 Reaxo#0099
 
